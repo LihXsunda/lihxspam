@@ -24,4 +24,4 @@ npm start
 ## Delete Folder
 
 ```bash
-rm -rf Nano-Dd0S
+rm -rf pairing_spam
