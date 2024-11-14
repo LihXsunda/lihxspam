@@ -1,11 +1,11 @@
 {
-  "name": "SANTET-ONLINE",
-  "version": "9.9.9.9",
+  "name": "𝕷𝖎𝖍𝖃𝖘𝖕𝖆𝖒",
+  "version": "𝕰𝖗𝖗𝖔𝖗,
   "description": "Whatsapp-Crash",
-  "main": "reyhanganteng😎.js",
+  "main": "lihxspam.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node reyhanganteng😎.js"
+    "start": "node lihxspam.js"
   },
   "author": "REYHAN6610",
   "license": "MIT",
